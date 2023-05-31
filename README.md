@@ -24,7 +24,7 @@ Code Wizard is an AI-powered JavaScript app that provides coding assistance. It 
 
 ### Screenshot
 
-![](assets/images/AI2.png)
+![](client/assets/AI2.png)
 
 ### Links
 
