@@ -68,6 +68,6 @@ Through this project, I enhanced my knowledge of APIs by integrating and utilizi
 
 - Website - [Terrell Jackson](https://terrelljackson.vercel.app/)
 
-### Acknowlegements
+## Acknowlegements
 
 - Website - [JS Mastery Pro](https://www.jsmastery.pro/)
