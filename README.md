@@ -43,8 +43,6 @@ Code Wizard is an AI-powered JavaScript app that provides coding assistance. It 
 - Express JS
 - OpenAI API
 
-### What I learned
-
 To see how you can add code snippets, see below:
 
 ```js
@@ -60,6 +58,9 @@ To see how you can add code snippets, see below:
 ```
 
 ### Continued development
+
+- Create a landing page
+- Implement sign-in functionality
 
 ## Author
 
