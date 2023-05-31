@@ -12,7 +12,6 @@ Code Wizard is an AI-powered JavaScript app that provides coding assistance. It 
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
@@ -68,3 +67,7 @@ Through this project, I enhanced my knowledge of APIs by integrating and utilizi
 ## Author
 
 - Website - [Terrell Jackson](https://terrelljackson.vercel.app/)
+
+### Acknowlegements
+
+- Website - [JS Mastery Pro](https://www.jsmastery.pro/)
