@@ -5,7 +5,7 @@ Code Wizard is an AI-powered JavaScript app that provides coding assistance. It 
 ## Table of contents
 
 - [Overview](#overview)
-  - [The objective](#the-challenge)
+  - [Objective](#Objective)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
@@ -18,7 +18,7 @@ Code Wizard is an AI-powered JavaScript app that provides coding assistance. It 
 
 ## Overview
 
-### The objective
+### Objective
 
 - To create a project simialar to ChatGPT 
 
