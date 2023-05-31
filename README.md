@@ -66,8 +66,8 @@ Through this project, I enhanced my knowledge of APIs by integrating and utilizi
 
 ## Author
 
-- Website - [Terrell Jackson](https://terrelljackson.vercel.app/)
+- Personal portfolio - [Terrell Jackson](https://terrelljackson.vercel.app/)
 
 ## Acknowledgments:
 
-- Website - [JS Mastery Pro](https://www.jsmastery.pro/)
+- [JS Mastery Pro](https://www.jsmastery.pro/)
