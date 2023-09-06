@@ -99,7 +99,7 @@ const handleSubmit = async (e) => {
   } else {
     const err = await response.text()
 
-    messageDiv.innerHTML = "Something went wrong"
+    messageDiv.innerHTML = "Sorry we have reached the usage limit."
 
     alert(err)
   }
