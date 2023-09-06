@@ -101,7 +101,8 @@ const handleSubmit = async (e) => {
 
     messageDiv.innerHTML = "Sorry we have reached the usage limit."
 
-    alert(err)
+    alert(messageDiv)
+    console.log(err)
   }
 }
 
